@@ -1,0 +1,67 @@
+
+	body {
+		font-family:arial;
+	}
+	#table_teclado_virtual {
+		margin-top:5px;
+	}
+	#main_login {
+		width:200px;
+		background:#07430722;
+		height:auto;
+		padding:10px;
+	}
+	#table_teclado_virtual {
+		margin-left:50px;
+	}
+	#table_button {
+		margin-left:60px;
+	}
+	#table_button_corrigir_senha {
+		margin-left:35px;
+	}
+	#table_button_corrigir_senha button {
+		background:#cc0070;
+		border:1px solid silver;
+		border-radius:3px;
+	}
+	#table_button_corrigir_senha button:hover {
+		opacity:0.80;
+		color:white;
+	}
+	#legenda_main_login {
+		display:block;
+		background:#000066;
+		color:white;
+		width:200px;
+		padding:10px;
+		padding-top:3px;
+		padding-bottom:3px;
+		font-size:16px;
+		margin-bottom:0px;
+		text-align:center;
+	}
+	#entrar {
+		background:#000066;
+		color:white;
+		border:1px solid #9a9a9a;
+	}
+	section {
+		width:220px;
+		height:auto;
+		margin:auto;
+		border:1px solid silver;
+		padding:10px;
+		background:#f7f5f5;
+	}
+	#legenda_digitos {
+		font-size:11px;
+		opacity:0.60;
+		margin-top:3px;
+		display:block;
+	}
+
+	.erro {
+		color:#f88989;
+	}
+	
